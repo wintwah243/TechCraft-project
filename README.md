@@ -33,13 +33,18 @@ An Online Vendor Management System built to streamline the process of managing v
 
 ## Team members
 
-- Wint Wah Kyaw Soe
+- Wint Wah Kyaw Soe (https://github.com/wintwah243)
 - Kalayar Lin Mon
 - Aye Yu Mon (https://github.com/YuMon9124)
 - Shwe Ya Min (https://github.com/shwe158)
 - Ingyin Phyu
 - MayMi Wai Zin
 - Khin Chaw Thant
+
+---
+
+## WIP Features
+- Vendor registration and their functionalities
 
 ---
 
